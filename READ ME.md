@@ -294,7 +294,7 @@ ax.legend();
 
 
     
-![png](output_7_0.png)
+![](VitD Levels.png)
     
 
 
@@ -341,7 +341,7 @@ ax.legend();
 
 
     
-![png](output_11_0.png)
+![](DocVisits.png)
     
 
 
@@ -388,7 +388,7 @@ ax.legend();
 
 
     
-![png](output_15_0.png)
+![](TotalCharge.png)
     
 
 
